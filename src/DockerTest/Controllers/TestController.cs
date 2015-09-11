@@ -9,7 +9,7 @@ namespace DockerTest.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Hello World V2";
+            return "Hello World V3";
         }
     }
 }
